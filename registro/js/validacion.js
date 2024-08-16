@@ -29,7 +29,7 @@ function validarCheckbox() {
     }
 
     mensajeError.textContent = ""; // Limpiar el mensaje de error
-    return true; // Permiteir que el formulario se envíe
+    return true; // Permitir que el formulario se envíe
 }
 
 function coincidenContrasenias(contrasenia1, contrasenia2){
